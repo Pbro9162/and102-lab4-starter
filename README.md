@@ -23,8 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/Rxt53NL
-
+https://imgur.com/a/79yBuDF
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur
 <!-- Recommended tools:
